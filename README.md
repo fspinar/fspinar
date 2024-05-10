@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+### I am Fatih Sogukpinar. I am 3rd year PhD candidate :sweat_drops: at Washington University in St. Louis, in Dr. Ilya Monosov's lab. 
+- 🔭 I’m currently working on experiments and behavioral models on reinforcement learning, bandit tasks, and curiosity.
+
+Always feel free to reach out about science, PhD, or life in general :blush: 
+You can find my information in my bio. My email addresses are: 
+fatihsogukpinar96@gmail.com and f.sogukpinar@wustl.edu
 
 <!--
 **fspinar/fspinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
