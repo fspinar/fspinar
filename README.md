@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Fatih Sogukpinar. I am a 3rd year PhD candidate :sweat_drops: at Washington University in St. Louis, in Dr. Ilya Monosov's lab. 
+### I am Fatih Sogukpinar. I am a 4th year PhD candidate :sweat_drops: at Washington University in St. Louis, in Dr. Ilya Monosov's lab. 
 - 🔭 I’m currently working on experiments and behavioral models on reinforcement learning, bandit tasks, and curiosity.
 
 Always feel free to reach out about science, PhD, or life in general :blush: 
